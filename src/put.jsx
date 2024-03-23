@@ -1,5 +1,5 @@
-import Form from '../components/form.jsx';
-import Navbar from '../components/navbar.jsx'
+import Form from './form.jsx';
+import Navbar from './navbar.jsx'
 
 const ContactPage = () => {
     return (
