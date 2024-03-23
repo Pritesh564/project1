@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import HomePage from './content_files/App.jsx'
+import HomePage from './App.jsx'
 
 import './index.css'
 
