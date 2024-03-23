@@ -1,7 +1,7 @@
 
 
-import Card from '../components/card.jsx';
-import Navbar from '../components/navbar.jsx'
+import Card from './card.jsx';
+import Navbar from './navbar.jsx'
 
 
 const HomePage = () => {
