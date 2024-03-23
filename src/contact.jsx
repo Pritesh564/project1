@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import  ContactPage from './content_files/put.jsx'
+import  ContactPage from './put.jsx'
 
 import './index.css'
 
