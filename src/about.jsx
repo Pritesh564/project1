@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import AboutPage from './content_files/push.jsx'
+import AboutPage from './push.jsx'
 
 import './index.css'
 
